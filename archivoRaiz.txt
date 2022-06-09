@@ -1,2 +1,7 @@
 archivo 1 Dieguito
+<<<<<<< HEAD
 texto despues de crear la rama b, pero desde la rama master.
+=======
+esto fue escrito estando en la rama b :)
+agregamos texto desde la rama b, ahora el head de rama b ya no será el f72...
+>>>>>>> ramab

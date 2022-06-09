@@ -19,6 +19,15 @@ que se encuentren dentro de el.
 que archivos necesitan ser agregados, para ver el estado general de
 cada archivo.
 
+___modificaciones estando en rama b_____
+** git branch  -  para ver en que rama estamos posicionados
+
+** git checkout -b <nombre rama>   -   para agregar una rama y
+ posicionarnos en ella.
+
+** git checkout <nombre rama>   -   para posicionarnos en la rama.
+
+
 
 
 
