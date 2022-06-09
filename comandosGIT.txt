@@ -1,0 +1,6 @@
+git init  - iniciar un entorno para git
+git add (nombre de archivos)  - mandamos al staged los archivos que querramos
+git commit -m "mensaje"  -  hacemos un mensaje para comprometer.
+git rm <archivo>     -  para eliminar un archivo
+git restore --staged <archivo>..." para sacar del área de stage)
+git restore <archivo>... para descartar los cambios en el directorio de trabajo
